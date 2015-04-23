@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "una.RedSocial.DS", "una.RedSocial.DS\una.RedSocial.DS.csproj", "{CA1532C2-593B-4485-971D-9E388B96680D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "una.RedSocial.BS", "una.RedSocial.BS\una.RedSocial.BS.csproj", "{A35D9390-A8E5-4758-A647-A1850F41DD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "una.RedSocial.UI", "una.RedSocial.UI\una.RedSocial.UI.csproj", "{8993FEDB-AF69-4EE3-A37D-1E3E4655D3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "una.RedSocial.Datos", "una.RedSocial.Datos\una.RedSocial.Datos.csproj", "{FA880290-B44D-4B8F-AE48-6C6F42EE5179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1532C2-593B-4485-971D-9E388B96680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1532C2-593B-4485-971D-9E388B96680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1532C2-593B-4485-971D-9E388B96680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1532C2-593B-4485-971D-9E388B96680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35D9390-A8E5-4758-A647-A1850F41DD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35D9390-A8E5-4758-A647-A1850F41DD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35D9390-A8E5-4758-A647-A1850F41DD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35D9390-A8E5-4758-A647-A1850F41DD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8993FEDB-AF69-4EE3-A37D-1E3E4655D3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8993FEDB-AF69-4EE3-A37D-1E3E4655D3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8993FEDB-AF69-4EE3-A37D-1E3E4655D3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8993FEDB-AF69-4EE3-A37D-1E3E4655D3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA880290-B44D-4B8F-AE48-6C6F42EE5179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA880290-B44D-4B8F-AE48-6C6F42EE5179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA880290-B44D-4B8F-AE48-6C6F42EE5179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA880290-B44D-4B8F-AE48-6C6F42EE5179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
