@@ -12,7 +12,7 @@ namespace una.RedSocial.Datos
        string Email;
        string EmailAmigo;
        DateTime Fecha;
-       string Estado;
+       
 
     }
 }

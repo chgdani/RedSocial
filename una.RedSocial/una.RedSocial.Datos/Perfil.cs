@@ -15,5 +15,6 @@ namespace una.RedSocial.Datos
        string Ocupacion;
        string Estudios;
        string Password;
+       string Estado;
     }
 }

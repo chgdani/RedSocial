@@ -8,12 +8,11 @@ namespace una.RedSocial.Datos
 {
    public class Publicaciones
     {
-        int IdPerfil;
+        int IdPub;
         string Email;
-        string Direccion;
-        string EstCivil;
-        string Ocupacion;
-        string Estudios;
-        string Password;
+        string Texto;
+        string Video;
+        string Imagen;
+        DateTime Fecha;
     }
 }

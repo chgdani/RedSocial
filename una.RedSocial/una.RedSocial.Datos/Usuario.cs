@@ -14,8 +14,7 @@ namespace una.RedSocial.Datos
         string Nombre;
         string Apellidos;
         string Sexo;
-        string Fotos;
-        string Estados;
+        
 
     }
 }
