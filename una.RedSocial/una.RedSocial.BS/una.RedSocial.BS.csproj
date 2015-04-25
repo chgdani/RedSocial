@@ -39,8 +39,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Amigos.cs" />
+    <Compile Include="Comentarios.cs" />
+    <Compile Include="Fotos.cs" />
+    <Compile Include="IAmigos.cs" />
+    <Compile Include="IComentarios.cs" />
+    <Compile Include="IFotos.cs" />
+    <Compile Include="IMisFotos.cs" />
+    <Compile Include="IPerfil.cs" />
+    <Compile Include="IPublicaciones.cs" />
+    <Compile Include="ISolicitudes.cs" />
+    <Compile Include="IUsuario.cs" />
+    <Compile Include="MisFotos.cs" />
+    <Compile Include="Perfil.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Publicaciones.cs" />
+    <Compile Include="Solicitudes.cs" />
+    <Compile Include="Usuario.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\una.RedSocial.Datos\una.RedSocial.Datos.csproj">
+      <Project>{fa880290-b44d-4b8f-ae48-6c6f42ee5179}</Project>
+      <Name>una.RedSocial.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\una.RedSocial.DS\una.RedSocial.DS.csproj">
+      <Project>{ca1532c2-593b-4485-971d-9e388b96680d}</Project>
+      <Name>una.RedSocial.DS</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

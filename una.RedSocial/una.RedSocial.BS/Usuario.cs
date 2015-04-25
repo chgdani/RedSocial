@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace una.RedSocial.BS
 {
-    public class Class1
+    class Usuario:IUsuario
     {
+        public int InsertarUsuario(Datos.Usuario us)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

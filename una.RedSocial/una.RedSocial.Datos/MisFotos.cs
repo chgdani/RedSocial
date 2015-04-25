@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace una.RedSocial.Datos
 {
-    public class Class1
+   public class MisFotos
     {
+       int IdMFotos;
+       string Email;
+       string NomAlbun;
     }
 }
