@@ -43,8 +43,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RedSocial.Datos\RedSocial.Datos.csproj">
-      <Project>{b633526d-14c9-4a1e-a81d-56ea1c5ead3a}</Project>
+    <ProjectReference Include="..\RedSocial.BS\RedSocial.Datos.csproj">
+      <Project>{76145228-6295-4044-a816-228d8addc0df}</Project>
       <Name>RedSocial.Datos</Name>
     </ProjectReference>
   </ItemGroup>

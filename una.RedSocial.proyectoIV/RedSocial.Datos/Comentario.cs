@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RedSocial.Datos
+namespace RedSocial.BS
 {
-    public class Class1
+    class Comentario
     {
     }
 }
