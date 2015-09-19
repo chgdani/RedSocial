@@ -8,6 +8,8 @@ namespace RedSocial.DS
 {
     public interface  IAlbum
     {
-        int AgregarAlbum(Datos.Album al);
+
+        Datos.Album AgregarAlbum(string IdAlbum);
+        
     }
 }

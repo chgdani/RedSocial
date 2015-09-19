@@ -8,6 +8,6 @@ namespace RedSocial.DS
 {
   public interface IAmigo
     {
-      int AgregarAmigo(Datos.Amigo am);
+      Datos.Amigo AgregarAmigo(string IdAmigo);
     }
 }
